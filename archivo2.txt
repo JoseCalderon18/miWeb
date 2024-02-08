@@ -1,3 +1,1 @@
 archivo2
-archivo2(1)
-archivo2(2)
